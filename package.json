@@ -1,0 +1,25 @@
+{
+  "name": "webpack-legacy",
+  "version": "1.0.0",
+  "description": "Repositor with example set up for legacy app with sparked with a bit of modern js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcin-wosinek/webpack-legacy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcin-wosinek/webpack-legacy/issues"
+  },
+  "homepage": "https://github.com/marcin-wosinek/webpack-legacy#readme",
+  "devDependencies": {
+    "webpack": "^5.41.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
